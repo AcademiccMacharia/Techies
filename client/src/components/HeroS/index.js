@@ -17,7 +17,7 @@ const HeroS = () => {
         <HeroContent>
           <HeroH1>TECHIES</HeroH1>
           <HeroP>
-            Home of Innovations and Solutions.
+            From miles away to a Global Village.
           </HeroP>
           <HeroBtnWrapper>
             <Button to="signup" onMouseEnter={onHover} onMouseLeave={onHover} primary='true' dark='true'>

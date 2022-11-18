@@ -78,6 +78,7 @@ export const FormH1 = styled.h1`
     text-align: center;
 `;
 
+
 export const FormLabel = styled.label`
     margin-bottom: 8px;
     font-size: 14px;
@@ -100,6 +101,14 @@ export const FormButton = styled.button`
     color: #fff;
     font-size: 20px;
     cursor: pointer;
+`;
+
+export const FormH4 = styled.h4`
+    margin-bottom: 40px;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
 `;
 
 export const Text = styled(Link)`

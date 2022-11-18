@@ -20,7 +20,7 @@ export const homeObjTwo = {
     lightBg: false,
     lightText: true,
     lightTextDesc: false,
-    topline: 'FREELANCERS',
+    topLine: 'JOIN OUR TEAM🚀',
     headline: 'Work from Anywhere',
     description: 'Submit your request. Get approved. Join our team of professionals and enjoy the flexibility of working from anywhere in the world',
     buttonLabel: "I'm a Freelancer",
