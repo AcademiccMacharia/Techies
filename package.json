@@ -10,6 +10,10 @@
     "type": "git",
     "url": "git+https://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@github.com/AcademiccMacharia/techies.git"
   },
+  "engines": {
+    "node": "v16.17.0",
+    "npm": "8.15.0"
+  },
   "author": "",
   "license": "ISC",
   "bugs": {
