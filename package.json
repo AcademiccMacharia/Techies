@@ -1,0 +1,19 @@
+{
+  "name": "techies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/AcademiccMacharia/techies.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AcademiccMacharia/techies/issues"
+  },
+  "homepage": "https://github.com/AcademiccMacharia/techies#readme"
+}
