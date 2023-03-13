@@ -10,10 +10,6 @@
     "node": "v16.17.0",
     "npm": "8.15.0"
   },
-  "repository": {
-    "type": "git",
-    "url": "/AcademiccMacharia/techies.git"
-  },
   "author": "",
   "license": "ISC",
   "bugs": {
