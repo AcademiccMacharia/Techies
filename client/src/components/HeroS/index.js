@@ -17,11 +17,11 @@ const HeroS = () => {
         <HeroContent>
           <HeroH1>TECHIES</HeroH1>
           <HeroP>
-            From miles away to a Global Villages.
+            From Miles Away to a Global Village.
           </HeroP>
           <HeroBtnWrapper>
             <Button to="signup" onMouseEnter={onHover} onMouseLeave={onHover} primary='true' dark='true'>
-              Get Started {hover ? <ArrowForward /> : <ArrowRight />}
+              Explore Villages {hover ? <ArrowForward /> : <ArrowRight />}
             </Button>
           </HeroBtnWrapper>
         </HeroContent>

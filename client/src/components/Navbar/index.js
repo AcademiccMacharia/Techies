@@ -28,7 +28,7 @@ const Navbar = ({ toggle }) => {
   <Nav scrollNav={scrollNav}>
     <NavbarContainer>
         <NavLogo to = '/' onClick={toggleHome}>
-            Techie
+            Techies
         </NavLogo>
         <MobileIcon onClick={toggle}>
             <FaBars />
@@ -45,6 +45,9 @@ const Navbar = ({ toggle }) => {
           </NavItem>
           <NavItem>
             <NavLinks to="freelancers" smooth={true} duration={500} spy={true} exact='true' offset={-80}>Freelancers</NavLinks>
+          </NavItem>
+          <NavItem>
+            <NavLinks to="#" smooth={true} duration={500} spy={true} exact='true' offset={-80}>Digital Nomads</NavLinks>
           </NavItem>
         </NavMenu>
         <NavBtn>
