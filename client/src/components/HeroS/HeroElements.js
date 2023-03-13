@@ -76,7 +76,7 @@ export const HeroP = styled.p`
 margin-top: 24px;
 color: yellow;
 font-family: 'Tangerine', serif;
-font-size: 20px;
+font-size: 40px;
 text-shadow: 4px 4px 4px #aaa;
 text-align: center;
 max-width: 600px;
